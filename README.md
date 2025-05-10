@@ -9,7 +9,7 @@ This repo is the official implementation of the following paper:
 ## Overall Framework
 
 
-# Get Started
+## Get Started
 
 ### 1.Codes
 Full code will be released soon.
@@ -23,7 +23,7 @@ Model weights will be released soon.
 - [ ] Release the code and model weights
 - [ ] Update code usage tutorial
 
-# Acknowledgement
+## Acknowledgement
 
 We acknowledge the PROCORE-France/Hong Kong Joint Research Scheme for supporting this study.
 
