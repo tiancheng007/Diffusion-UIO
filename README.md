@@ -5,6 +5,7 @@ This repo is the official implementation of the following paper:
 **[Under Review] Diffusion-Driven Hybrid Unknown Input Observer for Vehicle Dynamics Estimation**
 
 <br> [AIMS Research Group, The Hong Kong Polytechnic University](https://sites.google.com/view/hailong-huang/home)
+<br> [INSA Hauts-de-France, Université Polytechnique Hauts-de-France](https://www.uphf.fr/lamih/en/departments/automatic)
 
 ## Experimental Results
 The proposed framework is validated with the test data collected from a real-world test track.
