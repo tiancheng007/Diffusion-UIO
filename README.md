@@ -24,7 +24,23 @@ Full code will be released soon.
 
 ### 2.Downloads
 Model weights will be released soon.
+      
+## Useful link
 
+If you are interested in other SOTA estimation techniques of Vehicle-Road-Pedestrian, you can be refer to our survey paper:
+
+  ```
+@ARTICLE{tian_recentestimationtechniques_2025,
+  author={Tian, Cheng and Huang, Chao and Wang, Yan and Chung, Edward and Nguyen, Anh-Tu and Wong, Pak Kin and Ni, Wei and Jamalipour, Abbas and Li, Kai and Huang, Hailong},
+  journal={IEEE Trans. Intell. Transp. Syst.}, 
+  title={Recent Estimation Techniques of Vehicle-Road-Pedestrian States for Traffic Safety: Comprehensive Review and Future Perspectives}, 
+  year={2025},
+  volume={26},
+  number={3},
+  pages={2897-2920}
+}
+```
+Full-text link: [ResearchGate](https://www.researchgate.net/publication/387093260_Recent_Estimation_Techniques_of_Vehicle-Road-Pedestrian_States_for_Traffic_Safety_Comprehensive_Review_and_Future_Perspectives) [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10814926) 
 
 ## TODO
 - [x] Upload the initial Readme
