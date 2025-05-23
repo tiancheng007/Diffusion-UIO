@@ -32,7 +32,7 @@ If you are interested in other SOTA estimation techniques of Vehicle-Road-Pedest
   ```
 @ARTICLE{tian_recentestimationtechniques_2025,
   author={Tian, Cheng and Huang, Chao and Wang, Yan and Chung, Edward and Nguyen, Anh-Tu and Wong, Pak Kin and Ni, Wei and Jamalipour, Abbas and Li, Kai and Huang, Hailong},
-  journal={IEEE Trans. Intell. Transp. Syst.}, 
+  journal={IEEE Transactions on Intelligent Transportation Systems}, 
   title={Recent Estimation Techniques of Vehicle-Road-Pedestrian States for Traffic Safety: Comprehensive Review and Future Perspectives}, 
   year={2025},
   volume={26},
