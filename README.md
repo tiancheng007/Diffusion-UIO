@@ -27,7 +27,7 @@ Model weights will be released soon.
       
 ## Useful link
 
-If you are interested in other SOTA estimation techniques of Vehicle-Road-Pedestrian, you can refer to our survey paper:
+If you are interested in other SOTA state estimation techniques of Vehicle-Road-Pedestrian, you can refer to our survey paper:
 
   ```
 @ARTICLE{tian_recentestimationtechniques_2025,
