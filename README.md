@@ -13,9 +13,10 @@ The proposed framework is validated with the test data collected from a real-wor
 
 ![](assets/quantitative_results.png)
 
-Baseline methods:
+Methods:
 - ```TS-UIO```: The TS fuzzy UIO [[Link]](https://ieeexplore.ieee.org/document/9314225)
 - ```E2E-UIO```: The designed LPV UIO with an end-to-end approximator (modified from [[Link]](https://ieeexplore.ieee.org/document/10054430))
+- ```Diff-UIO```: The proposed diffusion-driven hybrid UIO
 
 ## Get Started
 
