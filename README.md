@@ -45,7 +45,7 @@ Full-text link: [ResearchGate](https://www.researchgate.net/publication/38709326
 
 ## TODO
 - [x] Upload the initial Readme
-- [ ] Release the code and model weights
+- [x] Release the codes
 - [ ] Update code usage tutorial
 
 ## Acknowledgement
