@@ -11,7 +11,7 @@ This repo is the official implementation of the following paper:
 ## Experimental Results
 The proposed framework is validated with the test data collected from a real-world test track.
 
-![](assets/quantitative_results.png)
+![](table_4.png)
 
 Methods:
 - ```TS-UIO```: The TS fuzzy UIO [[Link]](https://ieeexplore.ieee.org/document/9314225)
