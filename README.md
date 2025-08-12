@@ -10,7 +10,7 @@ This repo is the official implementation of the following paper:
 
 
 ## News
-- ```2025.08```: We release the code of the paper.
+- ```2025.08```: We release the code of our paper.
 
 
 ## Diffusion-driven Hybrid Estimation Framework
@@ -76,7 +76,7 @@ If you find our code helpful for your research, please consider starring our rep
   pages={2897-2920}
 }
 ```
-Full-text link: [ResearchGate](https://www.researchgate.net/publication/387093260_Recent_Estimation_Techniques_of_Vehicle-Road-Pedestrian_States_for_Traffic_Safety_Comprehensive_Review_and_Future_Perspectives) [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10814926) 
+Full-text link: [ResearchGate](https://www.researchgate.net/publication/387093260_Recent_Estimation_Techniques_of_Vehicle-Road-Pedestrian_States_for_Traffic_Safety_Comprehensive_Review_and_Future_Perspectives), [IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/10814926) 
 
 ## TODO
 - [x] Upload the initial Readme
