@@ -16,10 +16,7 @@ This repo is the official implementation of the following paper:
 ## Diffusion-driven Hybrid Estimation Framework
 The proposed framework is validated with the test data collected from a real-world test track.
 
-<img src="assets/overall_framework.png" width="321" alt="Overall Framework">
-
-## Estimation Results in Extreme Driving Scenario
-<img src="assets/fig_10.png" width="321" alt="Estimation Results">
+<img src="assets/overall_framework.png" alt="Image 1" width="321"> <img src="assets/fig_10.png" alt="Image 2" width="321">
 
 Methods:
 - ```TS-UIO```: The TS fuzzy UIO [[Link]](https://ieeexplore.ieee.org/document/9314225)
