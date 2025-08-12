@@ -8,10 +8,13 @@ This repo is the official implementation of the following paper:
 <br> [AIMS Research Group, The Hong Kong Polytechnic University](https://sites.google.com/view/hailong-huang/home)
 <br> [INSA Hauts-de-France, Université Polytechnique Hauts-de-France](https://sites.google.com/view/anh-tu-nguyen)
 
-## Experimental Results
+## Diffusion-driven Hybrid Estimation Framework
 The proposed framework is validated with the test data collected from a real-world test track.
 
-![](assets/table_4.png)
+![](assets/overall_framework.png)
+
+## Estimation Results in Extreme Driving Scenario
+![](assets/fig_10.png)
 
 Methods:
 - ```TS-UIO```: The TS fuzzy UIO [[Link]](https://ieeexplore.ieee.org/document/9314225)
@@ -20,13 +23,33 @@ Methods:
 
 ## Get Started
 
-### 1.Codes
-Full code will be released soon.
+### 1.Environments
+It is recommended to build a new virtual environment.
 
-### 2.Downloads
-Model weights will be released soon.
+# You can use miniconda3 to directly create a virtual environment. 
+conda create --name <env> --file requirements.txt
+
+# Enter the code file. 
+cd ./src
+
+### 2.Dataset
+
+# You can use the following script to parse the data from .csv file to .npz file.
+python ./tools/csv_parser_UIO_data.py
+
+### 3.Train
+
+- Generate the training label of the diffusion model:
+python .\model\evaluate_UIO_e2e_diffusion_label.py
+
+- Train the diffusion model:
+cd ./model/diffusion
+python ./train_diffusion.py
+
+### 4.Evaluate
+python .\model\evaluate_UIO_e2e_diffusion.py    
       
-## Useful link
+## Citation
 
 If you are interested in other SOTA state estimation techniques of Vehicle-Road-Pedestrian, you can refer to our survey paper:
 
