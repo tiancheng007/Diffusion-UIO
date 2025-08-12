@@ -60,7 +60,7 @@ python .\model\evaluate_UIO_e2e_diffusion.py
 ```
 ## Citation
 
-If you find our code helpful for your research, please consider starring our repository and citing our paper below. We greatly appreciate your support!
+If you find our code helpful for your research, please consider starring our repository 🌟 and citing our paper below. We greatly appreciate your support!
 
   ```
 @ARTICLE{tian_recentestimationtechniques_2025,
