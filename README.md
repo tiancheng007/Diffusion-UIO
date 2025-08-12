@@ -8,6 +8,11 @@ This repo is the official implementation of the following paper:
 <br> [AIMS Research Group, The Hong Kong Polytechnic University](https://sites.google.com/view/hailong-huang/home)
 <br> [INSA Hauts-de-France, Université Polytechnique Hauts-de-France](https://sites.google.com/view/anh-tu-nguyen)
 
+
+## News
+- ```2025.08```: We release the code of the paper.
+
+
 ## Diffusion-driven Hybrid Estimation Framework
 The proposed framework is validated with the test data collected from a real-world test track.
 
@@ -76,7 +81,7 @@ Full-text link: [ResearchGate](https://www.researchgate.net/publication/38709326
 ## TODO
 - [x] Upload the initial Readme
 - [x] Release the codes
-- [ ] Update code usage tutorial
+- [ ] Update code usage tutorial and paper citation
 
 ## Acknowledgement
 
